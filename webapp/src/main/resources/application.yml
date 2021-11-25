@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: webapp
+github:
+  organization: micronaut-projects
+  repo: micronaut-core
